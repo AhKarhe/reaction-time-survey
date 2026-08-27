@@ -1,0 +1,16 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv keeps exact package versions in renv.lock; installed packages stay local.
+renv/library/
+renv/local/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Generated exports
+reaction-time-*.png
+reaction-time-survey-cleaned-*.csv

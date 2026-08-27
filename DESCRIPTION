@@ -1,0 +1,13 @@
+Package: reactiontimesurvey
+Type: Project
+Title: Reaction Time Survey Shiny Application
+Version: 1.0.0
+Description: Interactive descriptive exploration of a student reaction-time
+    survey, including transparent data cleaning, plots, and unadjusted
+    association tests.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.3.0)
+Imports:
+    ggplot2,
+    shiny
